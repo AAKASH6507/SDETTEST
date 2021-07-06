@@ -22,5 +22,5 @@
   </html>
 
 <h4>Configuration:- </h4>
-<b><i>You can confure runner file with feature level tag toexecute all scenario all together 
+<b><i>You can configure runner file with feature level tag to execute all scenario all together 
   and also you can use scenario specific tags to excute specific test case.</b></i>
